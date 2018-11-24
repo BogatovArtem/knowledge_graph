@@ -72,9 +72,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Exe
-geckodriver
-chromedriver
+# driver for browser
+geckodriver.exe
+chromedriver.exe
 
 # pyenv
 .python-version
