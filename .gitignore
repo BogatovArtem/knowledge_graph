@@ -73,8 +73,7 @@ target/
 .ipynb_checkpoints
 
 # driver for browser
-geckodriver.exe
-chromedriver.exe
+drivers/
 
 # pyenv
 .python-version
